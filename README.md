@@ -2,7 +2,7 @@
  A sentiment analysis dataset of 9901 Multi-topic Facebook comments in standard Arabic and Moroccan dialect.
  
  
- Citation
+ ### Citation
  
  ````
  Maghfour, M., & Elouardighi, A. (2018, October).
@@ -10,7 +10,7 @@
  In International conference on model and data engineering (pp. 282-291). Springer, Cham.
  ````
  
- BibTex
+ BibTeX
  
  ````
  @inproceedings{maghfour2018standard,
