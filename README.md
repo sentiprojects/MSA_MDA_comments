@@ -1,5 +1,5 @@
 # MSA_MDA_comments
- A sentiment analysis dataset of 9901 Multi-topic Facebook comments in standard Arabic and Moroccan dialect.
+ A sentiment analysis corpus of 9901 Multi-topic Facebook comments in standard Arabic and Moroccan dialect.
  
  
  ### Citation
